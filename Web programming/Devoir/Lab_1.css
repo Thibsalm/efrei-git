@@ -1,0 +1,36 @@
+/*body
+{
+
+	/*margin-left: 500px;*/
+	/*background-color: green;
+	color: white;
+}*/
+ul.navbar
+{
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	width: 150px;
+}
+ul.navbar li 
+{
+	margin: 5px ;
+	padding: 5px;
+	border-right: 1px solid #17252a;
+	border-top: 1px solid #17252a;
+	border-left: 10px solid #17252a;
+	border-bottom: 1px solid #17252a;
+	list-style-type: none;
+}
+ul.navbar a
+{
+	text-decoration: none;
+}
+a:link
+{
+	color: yellow;
+}
+a:visited
+{
+	color: white;
+}

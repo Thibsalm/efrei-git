@@ -1,19 +1,22 @@
-.body
+/*body
 {
-	margin-left: 25%;
-	margin-right: 25%;
 
+	/*margin-left: 500px;*/
+	/*background-color: green;
+	color: white;
+}*/
+h1
+{
+	color : #17252a;
 }
-
-
-ol.navbar
+ul.navbar
 {
 	position: absolute;
 	top: 30px;
 	left: 15px;
 	width: 150px;
 }
-ol.navbar li 
+ul.navbar li 
 {
 	margin: 5px ;
 	padding: 5px;
@@ -23,7 +26,7 @@ ol.navbar li
 	border-bottom: 1px solid #17252a;
 	list-style-type: none;
 }
-ol.navbar a
+ul.navbar a
 {
 	text-decoration: none;
 }
